@@ -1,0 +1,23 @@
+{
+   "name": "vultlib",
+   "version": "0.3.19",
+   "description": "A node.js module providing all the functionality of the Vult compiler.",
+   "main": "vultlib.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/modlfo/vultlib.git"
+   },
+   "keywords": [
+      "compiler",
+      "dsp"
+   ],
+   "author": "Leonardo Laguna Ruiz",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/modlfo/vultlib/issues"
+   },
+   "homepage": "http://modlfo.github.io/vult/"
+}
