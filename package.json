@@ -1,23 +1,22 @@
 {
-  "name": "vultlib",
-  "version": "0.3.24",
-  "description": "A node.js module providing all the functionality of the Vult compiler.",
-  "main": "vultlib.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/modlfo/vultlib.git"
-  },
-  "keywords": [
-    "compiler",
-    "dsp"
-  ],
-  "author": "Leonardo Laguna Ruiz",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/modlfo/vultlib/issues"
-  },
-  "homepage": "http://modlfo.github.io/vult/"
+   "name": "vultlib",
+   "version": "0.3.24",
+   "description": "A node.js module providing all the functionality of the Vult compiler.",
+   "main": "vultlib.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/modlfo/vultlib.git"
+   },
+   "author": "Leonardo Laguna Ruiz",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/modlfo/vult/issues"
+   },
+   "homepage": "http://modlfo.github.io/vult/",
+   "keywords": [
+      "dsp", "compiler", "synthesizer", "puredata", "music", "audio", "effects"
+   ]
 }
