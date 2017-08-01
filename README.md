@@ -1,6 +1,6 @@
 ![Vult](http://modlfo.github.io/vult/images/VultH.png?raw=true "Vult")
 
-A node.js module providing all the functionality of the Vult compiler.
+A node.js module providing all the functionality of the Vult compiler. For the command line application install [vult](https://www.npmjs.com/package/vult).
 
 You can find the full project in https://github.com/modlfo/vult
 
