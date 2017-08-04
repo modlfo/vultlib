@@ -1,6 +1,6 @@
 {
   "name": "vultlib",
-  "version": "0.3.26",
+  "version": "0.3.27",
   "description": "A node.js module providing all the functionality of the Vult compiler.",
   "main": "vultlib.js",
   "scripts": {
